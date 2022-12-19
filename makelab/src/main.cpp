@@ -8,6 +8,7 @@ int b;
 int c;
 int d;
 
+
 int main() {
     A();
     B();
